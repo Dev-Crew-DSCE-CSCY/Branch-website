@@ -9,5 +9,4 @@
 3. After that create a pull request. 
 
 <br><br>
-
 ![Navbar](https://github.com/Dev-Crew-DSCE-CSCY/Branch-website/assets/135364633/af6af1df-e653-4551-be12-ca463dce1c24)
