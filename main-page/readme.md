@@ -8,3 +8,6 @@
 2. Go to the main page folder and above there will be an add file option  click there and click on the "create new file" option then add the top bar and give the directory as "(navbar)-(enter your usn)/" and upload your files there <br>
 3. After that create a pull request. 
 
+<br><br>
+
+![Navbar](https://github.com/Dev-Crew-DSCE-CSCY/Branch-website/assets/135364633/af6af1df-e653-4551-be12-ca463dce1c24)
